@@ -7,6 +7,9 @@ name = "pypi"
 main = "python main.py"
 
 [packages]
+fastapi = "==0.118.0"
+injector = "==0.22.0"
+fastapi-injector = "==0.8.0"
 
 [dev-packages]
 
